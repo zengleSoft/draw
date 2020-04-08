@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-08T10:41:04.379Z" agent="5.0 (Macintosh)" etag="FVmzwGBnh-EHjK3xhOSW" version="12.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-08T12:46:37.903Z" agent="5.0 (Macintosh)" etag="4l59nvo-aGeKk70jhsDn" version="12.9.5" type="github">
   <diagram id="I99ZIuPoS9ji2awWaGC4" name="Page-1">
     <mxGraphModel dx="1773" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cj3nYCgyinZ5sp29Ht1m-1" value="数据质量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cj3nYCgyinZ5sp29Ht1m-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cj3nYCgyinZ5sp29Ht1m-24" target="cj3nYCgyinZ5sp29Ht1m-30">
           <mxGeometry relative="1" as="geometry" />
@@ -20,13 +20,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cj3nYCgyinZ5sp29Ht1m-24" value="及时性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cj3nYCgyinZ5sp29Ht1m-32" value="任务及时性监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cj3nYCgyinZ5sp29Ht1m-30" value="优化完善值班制度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="650" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cj3nYCgyinZ5sp29Ht1m-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cj3nYCgyinZ5sp29Ht1m-22" target="cj3nYCgyinZ5sp29Ht1m-26">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cj3nYCgyinZ5sp29Ht1m-22" value="准确性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cj3nYCgyinZ5sp29Ht1m-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cj3nYCgyinZ5sp29Ht1m-28" target="cj3nYCgyinZ5sp29Ht1m-34">
           <mxGeometry relative="1" as="geometry" />
@@ -43,20 +43,20 @@
         <mxCell id="cj3nYCgyinZ5sp29Ht1m-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cj3nYCgyinZ5sp29Ht1m-28" target="cj3nYCgyinZ5sp29Ht1m-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cj3nYCgyinZ5sp29Ht1m-28" value="数据开发不出bug" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="200" width="120" height="40" as="geometry" />
+        <mxCell id="cj3nYCgyinZ5sp29Ht1m-28" value="数据开发准确" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cj3nYCgyinZ5sp29Ht1m-36" value="数据监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="380" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cj3nYCgyinZ5sp29Ht1m-34" value="代码审核review制度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cj3nYCgyinZ5sp29Ht1m-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cj3nYCgyinZ5sp29Ht1m-26" target="cj3nYCgyinZ5sp29Ht1m-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cj3nYCgyinZ5sp29Ht1m-26" value="按照理解采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="200" width="120" height="40" as="geometry" />
+        <mxCell id="cj3nYCgyinZ5sp29Ht1m-26" value="数据采集准确" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cj3nYCgyinZ5sp29Ht1m-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cj3nYCgyinZ5sp29Ht1m-38" target="cj3nYCgyinZ5sp29Ht1m-40">
           <mxGeometry relative="1" as="geometry" />
@@ -68,16 +68,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cj3nYCgyinZ5sp29Ht1m-38" value="数据采集口径同步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cj3nYCgyinZ5sp29Ht1m-45" value="数据含义变动通知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="170" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cj3nYCgyinZ5sp29Ht1m-42" value="改库通知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cj3nYCgyinZ5sp29Ht1m-40" value="ods数据监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="-100" y="360" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
